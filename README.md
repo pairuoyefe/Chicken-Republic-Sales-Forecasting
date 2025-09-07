@@ -4,6 +4,7 @@
 This project analyzes **Chicken Republic’s sales data** using:  
 - **Power BI** → Interactive dashboards for sales and profit insights  
 - **Python (SARIMA)** → Time series forecasting for sales prediction  
+<img width="516" height="296" alt="Dashboard" src="https://github.com/user-attachments/assets/ee98d38c-4ce3-436e-ae2f-15c540773521" />
 
 The dataset was sourced from **Kaggle** and preprocessed in Python.  
 
@@ -77,9 +78,9 @@ The dataset was sourced from **Kaggle** and preprocessed in Python.
 
 ## Sample Dashboards & Forecast  
 *(Replace links below with your screenshots)*  
+<img width="189" height="314" alt="model prediction" src="https://github.com/user-attachments/assets/bd7fbc15-a0ff-49f6-8868-97aa9b1874a7" />
+<img width="527" height="297" alt="Prediction" src="https://github.com/user-attachments/assets/0d53d8d1-bd7c-4cf3-a1c4-b9d7ecfb4e19" />
 
-![Dashboard Preview](images/dashboard.png)  
-![Forecast Preview](images/forecast.png)  
 
 ---
 
